@@ -1,17 +1,17 @@
 # URL
-baseurl: "/strassenraumkarte-neukoelln"
-url: "https://supaplexosm.github.io"
+baseurl: "/strassenraumkarte-tarp"
+url: "https://mtrnord.github.io"
 
 # Content
 # Also used for Social Sharing https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 locale: de_DE
-title: Straßenraumkarte Neukölln
-description: Spezialkarten für Neukölln zum Straßenraum und zur Parkplatzdichte.
+title: Straßenraumkarte Tarp
+description: Spezialkarten für Tarp zum Straßenraum und zur Parkplatzdichte.
 author: Alex Seidel
 logo: /images/openstreetmap-osm-logo.png
 image:
   path: /images/social-sharing.png
-  alt: Ausschnitt der Parkraumkarte Neukölln mit Visualisierung des Flächenverbrauchs.
+  alt: Ausschnitt der Parkraumkarte Tarp mit Visualisierung des Flächenverbrauchs.
 twitter:
   username: "@osmberlin"
   card: summary_large_image
